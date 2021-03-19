@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900);
+
+body {
+  background-color: #12cad6;
+}
+.weather-card {
+
+   margin:  20px 535px;
+   padding-left:36px;
+   color:white;
+   border-radius:45px;
+   position: relative;
+   overflow: hidden;
+   width: 380px;
+   height: 549px;
+   background-color:#0b0b0d;
+   box-shadow: 0px 0px 25px 1px black;
+}
+   .mainImg{
+     float:right;
+     padding:25px;
+   }
+
+.col-md-6{
+  color: white;
+  padding-left:275px;
+
+}
+.regioninput{
+border-radius: 24px;
+border:none;
+width: 340px;
+height:30px;
+padding-left: 10px;
+font-size: 17px;
+}
+.searchbutton{
+  height: 33px;
+  width: 33px;
+  border-radius:13px;
+  border: none;
+  margin-left:-30px;
+}
